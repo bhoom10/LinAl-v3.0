@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainPanel()
+comment1.params=l
+comment1.target=MainPanel(JLabel)
+comment2.params=p\ l
+comment2.target=MainPanel(JPanel,\ JLabel)
+numComments=3

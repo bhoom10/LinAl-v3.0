@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=mat\ m\ n
+comment0.target=void\ QR([,\ int,\ int)
+comment1.params=mat\ m
+comment1.target=void\ eVect([,\ int)
+comment2.params=a\ m\ n\ c
+comment2.target=double[]\ mcol([,\ int,\ int,\ int)
+comment3.params=x\ n
+comment3.target=double\ vnorm([,\ int)
+comment4.params=a\ b\ s\ n
+comment4.target=double[]\ vmadd([,\ [,\ double,\ int)
+comment5.params=a\ m\ n\ d
+comment5.target=double[][]\ minor([,\ int,\ int,\ int)
+comment6.params=x\ d\ n
+comment6.target=double[]\ vdiv([,\ double,\ int)
+comment7.params=e\ m
+comment7.target=double[][]\ vmul([,\ int)
+comment8.params=a\ m\ n
+comment8.target=double[][]\ copy([,\ int,\ int)
+numComments=9

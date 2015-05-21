@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=mf\ scrollp
+comment0.target=MenuListener(ToolkitView,\ JScrollPane)
+comment0.text=public\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\ \nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\nscroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\n\npublic\ MenuListener\ (ToolkitView\ mf,JScrollPane\ scrollp){\nmenuFrame\=\ mf;\ \ \ \ \ \ scroll\=scrollp;\ \ \ \ \ \naddMatrix\=new\ JPanel();\n\n
+comment1.params=evt
+comment1.target=void\ actionPerformed(ActionEvent)
+comment10.params=mat\ mrow\ value2
+comment10.target=void\ DisplayE(double[][],\ int,\ double)
+comment11.params=mat\ rows\ cols
+comment11.target=Object[]\ displayMatrixPanel(double[][],\ int,\ int)
+comment2.params=row\ col
+comment2.target=void\ chDimensions(int,\ int)
+comment3.target=void\ MatrixInsert()
+comment4.params=matrix\ row\ col
+comment4.target=void\ displayMatrix(double[][],\ int,\ int)
+comment5.params=matrix\ row\ col
+comment5.target=double[][]\ saveMatrix(JTextField[][],\ int,\ int)
+comment6.params=mrow\ mcolumns\ title
+comment6.target=JTextField[][]\ CreateMatrix(int,\ int,\ String)
+comment7.params=rows\ cols
+comment7.target=Object[]\ createMatrixPanel(int,\ int)
+comment8.params=mat\ mrow\ mcol
+comment8.target=void\ Display(double[][],\ int,\ int)
+comment9.params=res\ s
+comment9.target=void\ Displayval(double,\ String)
+numComments=12
